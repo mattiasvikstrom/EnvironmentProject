@@ -6,7 +6,7 @@ namespace BackendAPI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("developer to main");
+            Console.WriteLine("developer");
         }
     }
 }
